@@ -140,9 +140,7 @@ When the command runs successfully. Go to localhost:3000 there you will land on 
 ## 📸 Screenshots <a name = "screenshots"></a>
 
 #### Home Page
-<center>
-<img src="" width="700">
-</center>
+
 
 
 #### Admin: HomePage
@@ -158,16 +156,6 @@ When the command runs successfully. Go to localhost:3000 there you will land on 
 #### Admin: Genache
 <center>
 <img src="https://github.com/kvm22/E-Voting-using-Blockchain/blob/main/Genache.png" width="700">
-</center>
-
-#### Voter: Ethereum Account Registration
-<center>
-<img src="https://github.com/kvm22/E-Voting-using-Blockchain/blob/main/Genache%20Etherium.png="700">
-</center>
-
-#### Voter: Metamask Connect
-<center>
-<img src="https://github.com/kvm22/E-Voting-using-Blockchain/blob/main/Metamask%20connect.png="700">
 </center>
 
 #### Voter: Voting
