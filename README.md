@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="./public/images/voting.png" alt="Project logo"></a>
+
 </p>
 
 <h1 align="center">E-Voting Using Blockchain🗳️</h1>
@@ -145,19 +145,38 @@ When the command runs successfully. Go to localhost:3000 there you will land on 
 </center>
 
 
-#### Admin: View Candidates
+#### Admin: HomePage
 <center>
-<img src="https://github.com/Anish-U/BlockVote/blob/master/public/screenshots/admin_view_candidates.png?raw=true" width="700">
+<img src="https://github.com/kvm22/E-Voting-using-Blockchain/blob/main/Home1.png" width="700">
 </center>
 
+#### Admin: HomePage2
+<center>
+<img src="https://github.com/kvm22/E-Voting-using-Blockchain/blob/main/Home2.png" width="700">
+</center>
+
+#### Admin: Genache
+<center>
+<img src="https://github.com/kvm22/E-Voting-using-Blockchain/blob/main/Genache.png" width="700">
+</center>
 
 #### Voter: Ethereum Account Registration
 <center>
-<img src="https://github.com/Anish-U/BlockVote/blob/master/public/screenshots/voter_register_ethereum_account.png?raw=true" width="700">
+<img src="https://github.com/kvm22/E-Voting-using-Blockchain/blob/main/Genache%20Etherium.png="700">
+</center>
+
+#### Voter: Metamask Connect
+<center>
+<img src="https://github.com/kvm22/E-Voting-using-Blockchain/blob/main/Metamask%20connect.png="700">
 </center>
 
 #### Voter: Voting
 <center>
-<img src="https://github.com/Anish-U/BlockVote/blob/master/public/screenshots/voter_vote.png?raw=true" width="700">
+<img src="https://github.com/kvm22/E-Voting-using-Blockchain/blob/main/Vote%20for%20Candidate.png" width="700">
+</center>
+
+#### Team: Kunwar Vabhav Mishra
+<center>
+<img src="https://github.com/kvm22/E-Voting-using-Blockchain/blob/main/Vabhav.png" width="700">
 </center>
 
